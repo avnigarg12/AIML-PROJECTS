@@ -13,11 +13,13 @@ The price distribution is positively skewed, with most products concentrated at 
 
 3. Which categorical columns may cause issues during modeling?
 
+
 Answer:
 
 High-cardinality features such as customer IDs and city names can increase dimensionality and require careful encoding.
 
 4. Why are customers returning products?
+
 
 Answer:
 
