@@ -1,11 +1,12 @@
-Questions & Answers
+Week 1 - E-Commerce EDA Challenge
 
+
+Questions & Answers
 1. How was the dataset audited?
 Checked dataset shape and column types.
 Identified missing values and duplicate records.
 Reviewed numerical distributions and potential outliers.
-
-3. Is the pricing data skewed?
+2. Is the pricing data skewed?
 
 Answer: Yes.
 
@@ -13,13 +14,11 @@ The price distribution is positively skewed, with most products concentrated at 
 
 3. Which categorical columns may cause issues during modeling?
 
-
 Answer:
 
 High-cardinality features such as customer IDs and city names can increase dimensionality and require careful encoding.
 
 4. Why are customers returning products?
-
 
 Answer:
 
